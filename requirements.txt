@@ -1,0 +1,2 @@
+# File Encryption and Decryption System Dependencies
+pycryptodome>=3.18.0
